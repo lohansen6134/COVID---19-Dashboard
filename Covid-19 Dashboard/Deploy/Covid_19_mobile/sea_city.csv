@@ -1,0 +1,135 @@
+city,lat,lng
+Singapore,1.293,103.8558
+Kuala Lumpur,3.1667,101.7
+Klang,3.0204,101.55
+Johor Bahru,1.48,103.73
+Melaka,2.2064,102.2465
+Kuching,1.53,110.33
+Kota Kinabalu,5.98,116.11
+Kota Bharu,6.12,102.23
+Shah Alam,3.0667,101.55
+Sandakan,5.843,118.108
+Seremban,2.7105,101.94
+Kuantan,3.83,103.32
+Kuala Terengganu,5.3304,103.12
+Tawau,4.271,117.896
+Miri,4.3999,113.9845
+Sibu,2.303,111.843
+Batu Pahat,1.8504,102.9333
+Muar,2.0337,102.5666
+Kluang,2.0383,103.3179
+Bintulu,3.1664,113.036
+Lahad Datu,5.0464,118.336
+Cukai,4.2332,103.4479
+Putrajaya,2.914,101.7019
+Labuan,5.2803,115.2475
+Raub,3.7927,101.8423
+Kuala Lipis,4.184,102.042
+Nakhon Ratchasima,15,102.1
+Ubon Ratchathani,15.25,104.83
+Khon Kaen,16.42,102.83
+Udon Thani,17.4048,102.7893
+Nong Khai,17.8733,102.7479
+Chanthaburi,12.6133,102.0979
+Sakon Nakhon,17.1679,104.1479
+Narathiwat,6.4318,101.8214
+Surin,14.8868,103.4915
+Chaiyaphum,15.804,102.0386
+Nakhon Phanom,17.3945,104.7695
+Kalasin,16.428,103.509
+Maha Sarakham,16.184,103.298
+Buri Ram,15.0004,103.1166
+Si Sa Ket,15.1203,104.3298
+Roi Et,16.051,103.655
+Yasothon,15.788,104.151
+Trat,12.237,102.509
+Mukdahan,16.5453,104.7235
+Nong Bua Lamphu,17.2041,102.4407
+Amnat Charoen,15.8585,104.6288
+Sa Kaeo,13.8141,102.0722
+Bueng Kan,18.363,103.6519
+Aranyaprathet,13.6824,102.4969
+Bua Yai,15.584,102.4186
+Davao,7.11,125.63
+Cagayan de Oro,8.4508,124.6853
+Tacloban,11.2504,125
+Butuan,8.9495,125.5436
+Surigao,9.7843,125.4888
+Magugpo Poblacion,7.3821,125.8017
+Gingoog,8.8304,125.13
+Tandag,9.0783,126.1986
+Kidapawan,7.0083,125.0894
+Tagum,7.4475,125.8094
+Catbalogan,11.7753,124.8861
+Digos,6.7497,125.3572
+Nabunturan,7.6029,125.9629
+Malita,6.415,125.6117
+Maasin,10.1336,124.8447
+Mambajao,9.2504,124.7156
+Alabel,6.1018,125.2905
+Borongan,11.6081,125.4319
+Malaybalay,8.1575,125.1278
+Prosperidad,8.58,125.8964
+Cabadbaran,9.1236,125.5344
+Mati,6.9551,126.2166
+Koronadal,6.2541,124.9922
+San Jose,10.18,125.5683
+Quảng Hà,16.06,108.25
+Huế,16.47,107.58
+Quy Nhơn,13.78,109.18
+Nha Trang,12.25,109.17
+Buôn Ma Thuột,12.667,108.05
+Phan Thiết,10.9337,108.1001
+Ấp Đa Lợi,11.9304,108.42
+Quảng Ngãi,15.1504,108.83
+Vũng Tàu,10.3554,107.085
+Phan Rang-Tháp Chàm,11.567,108.9833
+Hạ Long,20.9604,107.1
+Cam Ranh,11.902,109.2207
+Pleiku,13.9833,108
+Cẩm Phả,21.0404,107.32
+Kon Tum,14.3838,107.9833
+Tuy Hòa,13.082,109.316
+Đông Hà,16.85,107.1333
+Đà Nẵng,16.0748,108.224
+Tam Kỳ,15.5736,108.474
+Bà Rịa,10.4963,107.1684
+Đồng Xoài,11.5349,106.8832
+Đà Lạt,11.9359,108.4429
+Kon Tum,14.3545,108.0076
+Gia Nghĩa,12.0042,107.6907
+Quảng Trị,16.7504,107.2
+Penjaringan,-6.126741,106.782443
+Tanjong Priok,-6.132055,106.871483
+Kelapagading,-6.160455,106.905462
+Cengkareng,-6.148665,106.73526
+Kembangan,-6.176274,106.74654
+Kebon Jeruk,-6.195942,106.773595
+Kebayoran Lama,-6.244392,106.776544
+Mampang Prapatan,-6.250614,106.820788
+Pancoran,-6.2523,106.847338
+Kramat Jati,-6.273298,106.869465
+Denpasar,-8.65,115.216667
+Singaraja,-8.116611,115.083952
+Pacitan,-8.195569,111.099692
+Ponorogo,-7.866688,111.466614
+Trenggalek,-8.08641,111.713127
+Tulungagung,-8.0657,111.9025
+Blitar raya,-8.1014419,112.162762
+Malang raya,-7.983908,112.621391
+Nganjuk,-7.599122,111.910515
+Ngawi,-7.4038,111.4461
+Surabaya,-7.250445,112.768845
+Jember,-8.184486,113.668076
+Banyuwangi,-8.2325,114.35755
+Mojokerto,-7.4664,112.4338
+Kediri,-7.82284,112.011864
+Jakarta,-6.121435,106.774124
+Bandung,-6.932694,107.627449
+Bogor,-6.595038,106.816635
+Tangerang selatan,-6.347891,106.741158
+Serpong,-6.320138,106.665596
+Bintaro,-7.595599,110.280243
+Solo ,-7.566667,110.816667
+Banten,-6.12,106.150276
+Bojonegoro,-7.1502,111.8817

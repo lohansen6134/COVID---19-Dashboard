@@ -1,0 +1,43 @@
+---
+title: "Untitled"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dplyr)
+library(leaflet)
+```
+
+```{r}
+data <- read.csv("2020-corona-virus-timeseries/COVID-19_geo_timeseries_ver_0311.csv")
+data
+```
+
+```{r}
+map <- data %>% 
+  select(latitude, longitude)
+
+leaflet(map) %>% 
+  addProviderTiles("CartoDB.DarkMatter", 
+                   layerId = "Road Dark",
+                   group = "Road Dark") %>% 
+  addMarkers(clusterOptions = markerClusterOptions())
+
+# leaflet(data) %>% 
+#   addProviderTiles("CartoDB.DarkMatter", 
+#                    layerId = "Road Dark",
+#                    group = "Road Dark") %>%
+#   addCircles(lng = data$longitude, lat = data$latitude, 
+#              popup=paste("Cases:", data$confirmed_cases, "<br>",
+#                          "deaths:", data$deaths, "<br>", 
+#                          "Recovered:", data$recovered), 
+#              radius = data$confirmed_cases,
+#              color = data$country,
+#              stroke = FALSE, fillOpacity = 0.5)
+```
+
+

@@ -1,0 +1,117 @@
+﻿Country/Region,Confirmed,Deaths,Recovered,Active,
+0,China,80932,3172,62901,14859
+1,Italy,12462,827,1045,10590
+2,Iran,10075,429,2959,6687
+3,"Korea, South",7869,66,333,7470
+4,France,2284,48,12,2224
+5,Spain,2277,55,183,2039
+6,Germany,2078,3,25,2050
+7,US,1663,40,12,1611
+8,Norway,702,0,1,701
+9,Cruise Ship,696,7,325,364
+10,Switzerland,652,4,4,644
+11,Japan,639,16,118,505
+12,Denmark,617,0,1,616
+13,Sweden,599,1,1,597
+14,Netherlands,503,5,0,498
+15,United Kingdom,459,8,19,432
+16,Belgium,314,3,1,310
+17,Austria,302,1,4,297
+18,Qatar,262,0,0,262
+19,Bahrain,195,0,35,160
+20,Singapore,178,0,96,82
+21,Malaysia,149,0,26,123
+22,Israel,131,0,4,127
+23,Australia,128,3,21,104
+24,Canada,117,1,8,108
+25,Iceland,103,0,1,102
+26,Greece,99,1,0,98
+27,Czechia,94,0,0,94
+28,Slovenia,89,0,0,89
+29,United Arab Emirates,85,0,17,68
+30,Kuwait,80,0,5,75
+31,India,73,1,4,68
+32,Iraq,71,8,15,48
+33,Thailand,70,1,34,35
+34,San Marino,69,3,0,66
+35,Egypt,67,1,27,39
+36,Lebanon,61,3,1,57
+37,Portugal,59,0,0,59
+38,Finland,59,0,1,58
+39,Philippines,52,2,2,48
+40,Brazil,52,0,0,52
+41,Romania,49,0,6,43
+42,Taiwan*,49,1,20,28
+43,Poland,49,1,0,48
+44,Saudi Arabia,45,0,1,44
+45,Ireland,43,1,0,42
+46,Vietnam,39,0,16,23
+47,Indonesia,34,1,2,31
+48,Russia,28,0,3,25
+49,Algeria,24,1,8,15
+50,Georgia,24,0,0,24
+51,Albania,23,1,0,22
+52,Chile,23,0,0,23
+53,Costa Rica,22,0,0,22
+54,Pakistan,20,0,2,18
+55,Argentina,19,1,0,18
+56,Luxembourg,19,0,0,19
+57,Serbia,19,0,0,19
+58,Croatia,19,0,0,19
+59,Oman,18,0,9,9
+60,South Africa,17,0,0,17
+61,Ecuador,17,0,0,17
+62,Slovakia,16,0,0,16
+63,Estonia,16,0,0,16
+64,Peru,15,0,0,15
+65,Hungary,13,0,0,13
+66,Belarus,12,0,3,9
+67,Mexico,12,0,4,8
+68,Panama,11,1,0,10
+69,Bosnia and Herzegovina,11,0,0,11
+70,Brunei,11,0,0,11
+71,Azerbaijan,11,0,3,8
+72,Latvia,10,0,1,9
+73,Colombia,9,0,0,9
+74,Maldives,8,0,0,8
+75,North Macedonia,7,0,0,7
+76,Bulgaria,7,1,0,6
+77,Tunisia,7,0,0,7
+78,Afghanistan,7,0,0,7
+79,Morocco,6,1,0,5
+80,Malta,6,0,0,6
+81,Cyprus,6,0,0,6
+82,New Zealand,5,0,0,5
+83,French Guiana,5,0,0,5
+84,Dominican Republic,5,0,0,5
+85,Paraguay,5,0,0,5
+86,Armenia,4,0,0,4
+87,Senegal,4,0,1,3
+88,Cuba,3,0,0,3
+89,Moldova,3,0,0,3
+90,Cambodia,3,0,1,2
+91,Lithuania,3,0,0,3
+92,Bangladesh,3,0,0,3
+93,Martinique,3,0,0,3
+94,Sri Lanka,2,0,1,1
+95,Bolivia,2,0,0,2
+96,Honduras,2,0,0,2
+97,Burkina Faso,2,0,0,2
+98,Cameroon,2,0,0,2
+99,Nigeria,2,0,0,2
+100,Monaco,2,0,0,2
+101,Jamaica,2,0,0,2
+102,Togo,1,0,0,1
+103,Holy See,1,0,0,1
+104,Andorra,1,0,1,0
+105,Ukraine,1,0,0,1
+106,Guyana,1,1,0,0
+107,Turkey,1,0,0,1
+108,Liechtenstein,1,0,0,1
+109,Jordan,1,0,0,1
+110,Reunion,1,0,0,1
+111,Cote d'Ivoire,1,0,0,1
+112,Mongolia,1,0,0,1
+113,Bhutan,1,0,0,1
+114,Nepal,1,0,1,0
+115,Congo (Kinshasa),1,0,0,1

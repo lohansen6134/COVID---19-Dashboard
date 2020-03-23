@@ -1,0 +1,13 @@
+name: covid_19
+title: covid_19
+username:
+account: lohannes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1931897
+bundleId: 2874489
+url: https://lohannes.shinyapps.io/covid_19/
+when: 1584007591.65279
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_melt.csv

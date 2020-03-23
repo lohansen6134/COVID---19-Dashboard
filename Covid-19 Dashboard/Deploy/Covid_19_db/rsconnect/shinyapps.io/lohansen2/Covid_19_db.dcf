@@ -1,0 +1,12 @@
+name: Covid_19_db
+title: Covid_19_db
+username:
+account: lohansen2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1964646
+bundleId: 2907755
+url: https://lohansen2.shinyapps.io/Covid_19_db/
+when: 1584872315.05143
+asMultiple: FALSE
+asStatic: FALSE
